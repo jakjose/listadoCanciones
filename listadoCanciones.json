@@ -1,14 +1,16 @@
-[
-    {
-        "nombre": "cancion1",
-        "url": "https://raw.githubusercontent.com/jakjose/listadoCanciones/refs/heads/main/cancion1.mp3"
-    },
-    {
-        "nombre": "cancion2",
-        "url": "https://raw.githubusercontent.com/jakjose/listadoCanciones/refs/heads/main/cancion2.mp3"
-    },
-    {
-        "nombre": "cancion3",
-        "url": "https://raw.githubusercontent.com/jakjose/listadoCanciones/refs/heads/main/cancion3.mp3"
-    }
-]
+{
+    "data": [
+        {
+            "nombre": "cancion1",
+            "url": "https://raw.githubusercontent.com/jakjose/listadoCanciones/refs/heads/main/cancion1.mp3"
+        },
+        {
+            "nombre": "cancion2",
+            "url": "https://raw.githubusercontent.com/jakjose/listadoCanciones/refs/heads/main/cancion2.mp3"
+        },
+        {
+            "nombre": "cancion3",
+            "url": "https://raw.githubusercontent.com/jakjose/listadoCanciones/refs/heads/main/cancion3.mp3"
+        }
+    ]
+}
